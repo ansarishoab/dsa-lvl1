@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PG {
+class PG2 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int low = scn.nextInt();
